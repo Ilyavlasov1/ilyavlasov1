@@ -7,6 +7,7 @@
 
 ### Featured Projects
 - [security-headers-scanner](https://github.com/Ilyavlasov1/security-headers-scanner)
+    - ✅ See [results.md](results.md) — Security headers scan of my GitHub Pages site.
 - [zap-baseline-template](https://github.com/Ilyavlasov1/zap-baseline-template)
 - [threat-model-template](https://github.com/Ilyavlasov1/threat-model-template)
 
