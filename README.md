@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Ilya A Vlasov — AppSec Engineer / Penetration Testing 
-
+# 👋 Hi, I'm Ilya A Vlasov — AppSec and Vulnerability Analyst
 - 6y in QA → pivoting to AppSec, Cloud Sec, Ethical AI 
 - Tools: Burp, ZAP, Wireshark, Python/JS
 - Cloud: Azure, AWS, GCP, IAM & Certifications basics
