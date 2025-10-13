@@ -10,6 +10,7 @@
 - [zap-baseline-template](https://github.com/Ilyavlasov1/zap-baseline-template)
     - ⚡️ See [Zap-reports](https://github.com/Ilyavlasov1/zap-baseline-template/tree/main/zap-reports) - For Zap reports
 - [threat-model-template](https://github.com/Ilyavlasov1/threat-model-template)
+    - ⚠️ This is a lightweight template to communicate risks quickly without heavyweight tooling.
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/ilyavlasov1
